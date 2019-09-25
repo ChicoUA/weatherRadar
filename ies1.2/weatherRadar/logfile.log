@@ -1,0 +1,11 @@
+INFO  | 2019-09-25 16:04:29 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:16) - This will be printed on info
+WARN  | 2019-09-25 16:04:29 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:17) - This will be printed on warn
+ERROR | 2019-09-25 16:04:29 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:18) - This will be printed on error
+FATAL | 2019-09-25 16:04:29 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:19) - This will be printed on fatal
+INFO  | 2019-09-25 17:05:48 | [main] weatherRadar.App (App.java:16) - This will be printed on info
+WARN  | 2019-09-25 17:05:48 | [main] weatherRadar.App (App.java:17) - This will be printed on warn
+ERROR | 2019-09-25 17:05:48 | [main] weatherRadar.App (App.java:18) - This will be printed on error
+FATAL | 2019-09-25 17:05:48 | [main] weatherRadar.App (App.java:19) - This will be printed on fatal
+INFO  | 2019-09-25 16:10:57 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:15) - Selected Code was 1010500
+INFO  | 2019-09-25 16:11:50 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:15) - Selected Code was 1010500
+INFO  | 2019-09-25 16:11:50 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:26) - Getting response from service
