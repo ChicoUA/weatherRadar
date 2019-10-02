@@ -9,3 +9,33 @@ FATAL | 2019-09-25 17:05:48 | [main] weatherRadar.App (App.java:19) - This will 
 INFO  | 2019-09-25 16:10:57 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:15) - Selected Code was 1010500
 INFO  | 2019-09-25 16:11:50 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:15) - Selected Code was 1010500
 INFO  | 2019-09-25 16:11:50 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:26) - Getting response from service
+INFO  | 2019-09-26 04:06:58 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:15) - Selected Code was 1010500
+INFO  | 2019-09-26 04:06:58 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:26) - Getting response from service
+INFO  | 2019-10-02 04:37:46 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:21) - Selected Code was 1010500
+INFO  | 2019-10-02 04:37:47 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:42) - Getting response from service
+INFO  | 2019-10-02 04:39:43 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:21) - Selected Code was 1010500
+INFO  | 2019-10-02 04:40:23 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:21) - Selected Code was 1010500
+INFO  | 2019-10-02 04:40:23 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:42) - Getting response from service
+INFO  | 2019-10-02 04:41:56 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:21) - Selected Code was 1010500
+INFO  | 2019-10-02 04:41:57 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:42) - Getting response from service
+INFO  | 2019-10-02 04:43:27 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:21) - Selected Code was 1010500
+INFO  | 2019-10-02 04:47:58 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:22) - Selected Code was 1010500
+INFO  | 2019-10-02 04:47:59 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:43) - Getting response from service
+INFO  | 2019-10-02 04:50:42 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:22) - Selected Code was 1010500
+INFO  | 2019-10-02 05:01:58 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:22) - Selected Code was 1010500
+INFO  | 2019-10-02 05:17:34 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:18:24 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:18:46 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:19:32 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:20:54 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:21:53 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:24:30 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:25:55 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:26:28 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:32) - Getting response from service
+INFO  | 2019-10-02 05:36:10 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:23) - Using city name: Aveiro
+INFO  | 2019-10-02 05:36:10 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:35) - Getting response from service cities
+INFO  | 2019-10-02 05:36:10 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:51) - Getting response from service forecast
+INFO  | 2019-10-02 05:37:28 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:23) - Using city name: Aveiro
+INFO  | 2019-10-02 05:37:28 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:35) - Getting response from service cities
+INFO  | 2019-10-02 05:37:29 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:49) - Getting forecast for city id: 1010500
+INFO  | 2019-10-02 05:37:29 | [ies.aula1.ex1.weatherRadar.App.main()] weatherRadar.App (App.java:52) - Getting response from service forecast
